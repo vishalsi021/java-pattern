@@ -43,7 +43,7 @@ public class sumNumber2
     
 //  sum of digit
 
-public class sumNumber2{
+public class loopsbasic{
     public static void main(String[] args) {
         int number = 54893;
         int sum = 0;
@@ -108,7 +108,7 @@ public class sumNumber2{
     }
 */
 // count digits 
-public class sumNumber2{
+public class loopsbasic{
     public static void main ( String[] args){
         int count =0;
         int num= 437859;

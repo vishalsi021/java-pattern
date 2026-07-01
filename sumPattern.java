@@ -15,7 +15,7 @@ Output
 28
 Explanation
 5 + 4 + 8 + 9 + 2 = 28 
-public class sum21{
+public class sumPattern{
     public static void main( String [] args){
         int num =54892;
         int sum = 0;
@@ -159,7 +159,7 @@ public class sum21{
 } 
 */
 // lets do this Sum prime, product prime
-public class sum21{
+public class sumPattern{
     public static void main(String[] args) {
         int num = 5489261;
         int sum = 0;
